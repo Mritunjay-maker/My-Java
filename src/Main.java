@@ -67,6 +67,5 @@ public class Main {
         // we will get error in down casting -> add a manual cast
         // but this can be a problem -> as we may lose data
         int number = (int)data;
-
     }
 }
